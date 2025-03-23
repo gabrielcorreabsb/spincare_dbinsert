@@ -336,6 +336,6 @@ Este projeto é licenciado sob a [MIT License](LICENSE.md) - veja o arquivo [LIC
 
 *   **GitHub:** [Gabriel Corrêa ](https://github.com/gabrielcorreabsb)  
 *   **Email:** blogsrto@gmail.com 
-*   **Linkedin:** https://linkedin.com/in/gabrielcorreabsb)
+*   **Linkedin:** https://linkedin.com/in/gabrielcorreabsb
 
 Sinta-se à vontade para entrar em contato caso tenha dúvidas, sugestões ou precise de ajuda para utilizar os scripts.
